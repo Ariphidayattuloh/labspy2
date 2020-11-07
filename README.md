@@ -1,4 +1,15 @@
-# 
+
+Nama : Arip Hidayattuloh
+
+Nim  : 312010244
+
+Kelas : TI.20.B.1
+
+Dosen : Agung Nugroho S.Kom., M.Kom.
+
+Tugas : Pertemuan ke 7
+
+
 ![latihan 1](https://user-images.githubusercontent.com/72840534/98449594-54069e00-2167-11eb-8ad0-c8b00e47b2a2.png)
 
 ![hasil latihan 1](https://user-images.githubusercontent.com/72840534/98449605-6ed91280-2167-11eb-8ccc-a8ed06fa3463.png)
