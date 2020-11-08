@@ -1,3 +1,6 @@
+LATIHAN TUGAS 7
+----------------
+
 
 Nama : Arip Hidayattuloh
 
@@ -12,6 +15,8 @@ Tugas : Pertemuan ke 7
 Pernyataan if
 Pada python dikenal penggunaan struktur kondisi menggunakan statement if, dimana
 format/syntax penggunaan statement if adalah:
+
+
 syntax:
 if kondisi:
 
@@ -24,7 +29,7 @@ num = input("Masukkan angka: ")
 
 if (int(num) > 0):
 
-print(num, "adalah bilangan positif")
+     print(num, "adalah bilangan positif")
 
 print("ini diluar pernyataan if")
 
@@ -121,9 +126,8 @@ print(keterangan)
 
 -----------------------------------------------------
 
-Latihan 1: 
---------------------------------------------------
-
+Latihan 1: Latihan 1: Membuat program menentukan nilai akhir
+--------------------------------------------------------------------
 
 ![latihan 1](https://user-images.githubusercontent.com/72840534/98449594-54069e00-2167-11eb-8ad0-c8b00e47b2a2.png)
 
